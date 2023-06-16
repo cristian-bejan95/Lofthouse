@@ -1,3 +1,2 @@
 # Lofthouse
-
- https://bejancmaster.github.io/Lofthouse/
+https://cristianbejanmaster.github.io/Lofthouse/
